@@ -31,7 +31,7 @@
 }
 
 .nice-select:hover {
-    border-color: #3164F4;
+    border-color: #112e0a;
 }
 
 .nice-select:active,
@@ -163,7 +163,7 @@
 }
 
 .nice-select .option:hover {
-    background-color: #238AC1;
+    background-color: #2c7515;
     color: #fff;
 }
 
@@ -186,6 +186,6 @@
 }
 
 .contact-form-wrapper .list {
-    background: #2f3341 none repeat scroll 0 0;
+    background: #32412f none repeat scroll 0 0;
     border-radius: 0;
 }
