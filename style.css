@@ -2350,6 +2350,9 @@ body{
 .news-single .social-share li span{
 	padding-left:5px;
 }
+.news-single .social-share li.leiamais a{
+	background:#328b30;
+}
 .news-single .social-share li.facebook a{
 	background:#5d82d1;
 }
